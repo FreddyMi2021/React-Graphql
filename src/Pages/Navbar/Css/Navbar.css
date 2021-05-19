@@ -1,0 +1,6 @@
+.links:hover{
+    background: rgb(99, 99, 99);
+}
+.links:hover .icons{
+    background: rgb(99, 99, 99);
+}
